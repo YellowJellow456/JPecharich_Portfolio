@@ -1,0 +1,14 @@
+body {
+    font-family: system-ui, sans-serif;
+    background: #111;
+    color: #eee;
+    padding: 2rem;
+  }
+  
+  h1, h2 {
+    color: #9ad;
+  }
+  
+  .project {
+    margin-top: 1rem;
+  }
